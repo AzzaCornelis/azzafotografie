@@ -1,0 +1,5 @@
+#example
+"locaties": 1
+"prijs": 200000$
+
+"naam": van den bossche seth

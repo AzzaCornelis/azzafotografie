@@ -1,0 +1,44 @@
+{
+    "pakket_opbouw": {
+        "locaties": {
+            "1 locatie": "0$",
+            "2 locatie's": "20$",
+            "3 locatie's": "40$",
+            "4 locatie's": "60$",
+            "5 locatie's": "80$"
+        },
+
+        "foto hoeveelheid": {
+            "100 foto's": "20$",
+            "200 foto's": "40$",
+            "300 foto's": "60$",
+            "400 foto's": "80$",
+            "500 foto's": "100$",
+            "600 foto's": "120$",
+            "700 foto's": "140$",
+            "800 foto's": "160$",
+            "900 foto's": "180$",
+            "1000 foto's": "200$",
+            "1100 foto's": "220$",
+            "1200 foto's": "240$",
+            "1300 foto's": "260$",
+            "1400 foto's": "280$",
+            "1500 foto's": "300$"
+        },
+
+        "duratie": {
+            "2 uur": "20$",
+            "4 uur": "40$",
+            "8 uur": "60$",
+            "12 uur": "80$"
+        },
+
+        "foto categorie": {
+            "multiselectie": {
+                "groep foto's": "20$",
+                "koppel foto's": "20$",
+                "spontane foto's": "20$"
+            }
+        }
+    }
+}
