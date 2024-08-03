@@ -1,0 +1,19 @@
+nav{
+    width: fit-content;
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+nav a{
+    margin: 0 20px;
+    color: black;
+    transition-duration: .2s;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: grey;
+    text-decoration: underline;
+}
